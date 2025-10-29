@@ -1,0 +1,1 @@
+rootProject.name = "luminor_home_assignment"

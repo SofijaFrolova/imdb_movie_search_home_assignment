@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports / generated files
+build/allure-results/
+build/allure-report/
+screenshots/
+*.log
