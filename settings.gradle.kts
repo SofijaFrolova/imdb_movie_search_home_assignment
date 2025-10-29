@@ -1,1 +1,1 @@
-rootProject.name = "luminor_home_assignment"
+rootProject.name = "imdb_movie_search_home_assignment"
