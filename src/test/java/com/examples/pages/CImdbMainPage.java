@@ -19,6 +19,7 @@ public class CImdbMainPage {
     private static final String MOVIE_LIST_SELECTOR = "li[role='option'] a[href*='/title/'] .searchResult__constTitle";
 
     private static final Logger LOGGER = LoggerFactory.getLogger(CImdbMainPage.class);
+
     @Step("Open IMDb main page")
     public void openImdbMainPage() {
         open(IMDB_MAIN_PAGE_URL);
